@@ -1,1 +1,1 @@
-module github.com/ijoywan/d/v5.2.0
+module github.com/ijoywan/d/v1.0.0
